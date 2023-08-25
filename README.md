@@ -14,7 +14,7 @@
 </div><br/>
 
 ### Sobre mim:
-Estudante de Ciência da Computação, apaixonada por tecnológias e games.
+Estudante de Ciência da Computação, apaixonada por tecnologia e games.
 
 
 
