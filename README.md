@@ -14,7 +14,7 @@
 </div><br/>
 
 ### Sobre mim:
-Estudante de Ciência da Computação, apaixonada por tecnologia e games.
+Tenho 20 anos e estou no 3° período do curso Ciência da Computação no Centro universitário Una, sou apaixonada por tecnologia e games.
 
 
 
