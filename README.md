@@ -15,6 +15,7 @@
 <img align="center" alt="html5" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white/>
 <img align="center" alt="html5" src=    https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white/>
 <img align="center" alt="html5" src=    https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white>
+<img align="center" alt="html5" src=    https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white>
 
 
 
